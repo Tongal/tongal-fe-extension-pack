@@ -6,7 +6,7 @@
     "publisher": "EvanKennedy",
     "repository": {
         "type": "git",
-        "url": "https://github.com/username/tongal-fe-extension-pack"
+        "url": "https://github.com/Tongal/tongal-fe-extension-pack"
     },
     "engines": {
         "vscode": "^1.40.0"
