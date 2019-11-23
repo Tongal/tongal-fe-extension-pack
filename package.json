@@ -3,6 +3,7 @@
     "displayName": "Tongal FE Extension Pack",
     "description": "",
     "version": "0.0.1",
+    "publisher": "EvanKennedy",
     "repository": {
         "type": "git",
         "url": "https://github.com/username/tongal-fe-extension-pack"
