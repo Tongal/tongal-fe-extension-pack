@@ -1,0 +1,23 @@
+{
+    "name": "tongal-fe-extension-pack",
+    "displayName": "Tongal FE Extension Pack",
+    "description": "",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/username/tongal-fe-extension-pack"
+    },
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "apollographql.vscode-apollo",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "ms-vsliveshare.vsliveshare-pack",
+        "shinnn.stylelint"
+    ]
+}
