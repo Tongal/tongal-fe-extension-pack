@@ -2,7 +2,7 @@
     "name": "tongal-fe-extension-pack",
     "displayName": "Tongal FE Extension Pack",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "EvanKennedy",
     "repository": {
         "type": "git",
@@ -17,6 +17,7 @@
     "extensionPack": [
         "apollographql.vscode-apollo",
         "dbaeumer.vscode-eslint",
+        "emeraldwalk.runonsave",
         "esbenp.prettier-vscode",
         "ms-vsliveshare.vsliveshare-pack",
         "shinnn.stylelint"
