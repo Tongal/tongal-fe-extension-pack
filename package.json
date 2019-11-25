@@ -2,7 +2,8 @@
     "name": "tongal-fe-extension-pack",
     "displayName": "Tongal FE Extension Pack",
     "description": "",
-    "version": "0.0.2",
+    "version": "0.0.3",
+    "icon": "logo.png",
     "publisher": "Tongal",
     "repository": {
         "type": "git",
